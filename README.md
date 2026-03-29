@@ -39,8 +39,6 @@
 </tr>
 </table>
 
----
-
 ## 💻 Skill Inventory
 
 <table>
