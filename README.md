@@ -1,16 +1,16 @@
-## Hi there 👋
+<style>
+    hr {
+        margin:2rem;
+    }
+    </style>
+## Hey, I'm **Arjun Khanal (Nx75)** 👋
 
-<!--
-**Nx75/Nx75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Software Developer & Tech Enthusiast  
+-  Interested in Web Development, Systems & Problem Solving  
+- Occasionally write about tech & development  
+- Building projects and learning something new every day  
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" height="200px">
+<hr>
+<p align="center">
+  <i>Built with caffeine, curiosity, and questionable life decisions.</i>
+</p>
