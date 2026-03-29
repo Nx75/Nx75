@@ -1,8 +1,3 @@
-<style>
-    hr {
-        margin:2rem;
-    }
-    </style>
 ## Hey, I'm **Arjun Khanal (Nx75)** 👋
 
 -  Software Developer & Tech Enthusiast  
